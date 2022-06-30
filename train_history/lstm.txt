@@ -1,0 +1,164 @@
+
+
+Epoch 1/20,Step 0/89, took 0.54 s - train loss: 0.694334 - train accuracy: 0.45312
+Epoch 1/20,Step 49/89, took 1.04 s - train loss: 0.553559 - train accuracy: 0.84152
+Epoch 1/20 - valid loss: 0.4068658947944641 - valid acc:  0.9014008641242981 
+
+Epoch 2/20,Step 0/89, took 1.89 s - train loss: 0.425740 - train accuracy: 0.89844
+Epoch 2/20,Step 49/89, took 2.13 s - train loss: 0.401962 - train accuracy: 0.90577
+Epoch 2/20 - valid loss: 0.4989157021045685 - valid acc:  0.8065732717514038 
+
+Epoch 3/20,Step 0/89, took 1.12 s - train loss: 0.406907 - train accuracy: 0.89764
+Epoch 3/20,Step 49/89, took 1.03 s - train loss: 0.412598 - train accuracy: 0.89573
+Epoch 3/20 - valid loss: 0.38516655564308167 - valid acc:  0.9213362336158752 
+
+Epoch 4/20,Step 0/89, took 0.98 s - train loss: 0.384565 - train accuracy: 0.92348
+Epoch 4/20,Step 49/89, took 0.98 s - train loss: 0.389612 - train accuracy: 0.91741
+Epoch 4/20 - valid loss: 0.3880685567855835 - valid acc:  0.9226831793785095 
+
+Epoch 5/20,Step 0/89, took 1.04 s - train loss: 0.381263 - train accuracy: 0.92869
+Epoch 5/20,Step 49/89, took 0.97 s - train loss: 0.378189 - train accuracy: 0.93144
+Epoch 5/20 - valid loss: 0.3746151328086853 - valid acc:  0.936152994632721 
+
+Epoch 6/20,Step 0/89, took 1.07 s - train loss: 0.380977 - train accuracy: 0.92969
+Epoch 6/20,Step 49/89, took 0.99 s - train loss: 0.382620 - train accuracy: 0.93064
+Epoch 6/20 - valid loss: 0.3727976083755493 - valid acc:  0.936152994632721 
+
+Epoch 7/20,Step 0/89, took 1.02 s - train loss: 0.374587 - train accuracy: 0.93630
+Epoch 7/20,Step 49/89, took 1.05 s - train loss: 0.370119 - train accuracy: 0.94180
+Epoch 7/20 - valid loss: 0.3691610097885132 - valid acc:  0.9418103694915771 
+
+Epoch 8/20,Step 0/89, took 1.03 s - train loss: 0.368736 - train accuracy: 0.94351
+Epoch 8/20,Step 49/89, took 0.98 s - train loss: 0.365293 - train accuracy: 0.94611
+Epoch 8/20 - valid loss: 0.36552688479423523 - valid acc:  0.9482758641242981 
+
+Epoch 9/20,Step 0/89, took 0.99 s - train loss: 0.367619 - train accuracy: 0.94311
+Epoch 9/20,Step 49/89, took 0.97 s - train loss: 0.359475 - train accuracy: 0.95328
+Epoch 9/20 - valid loss: 0.3644706904888153 - valid acc:  0.9482758641242981 
+
+Epoch 10/20,Step 0/89, took 1.11 s - train loss: 0.367612 - train accuracy: 0.94531
+Epoch 10/20,Step 49/89, took 0.95 s - train loss: 0.360845 - train accuracy: 0.95249
+Epoch 10/20 - valid loss: 0.365120530128479 - valid acc:  0.946928858757019 
+
+Epoch 11/20,Step 0/89, took 1.03 s - train loss: 0.368952 - train accuracy: 0.94431
+Epoch 11/20,Step 49/89, took 0.99 s - train loss: 0.359697 - train accuracy: 0.95456
+Epoch 11/20 - valid loss: 0.3634754717350006 - valid acc:  0.9501616358757019 
+
+Epoch 12/20,Step 0/89, took 1.02 s - train loss: 0.361917 - train accuracy: 0.95212
+Epoch 12/20,Step 49/89, took 0.97 s - train loss: 0.358147 - train accuracy: 0.95520
+Epoch 12/20 - valid loss: 0.36678263545036316 - valid acc:  0.9458512663841248 
+
+Epoch 13/20,Step 0/89, took 0.91 s - train loss: 0.357013 - train accuracy: 0.95853
+Epoch 13/20,Step 49/89, took 0.95 s - train loss: 0.355613 - train accuracy: 0.96014
+Epoch 13/20 - valid loss: 0.36234283447265625 - valid acc:  0.9509698152542114 
+
+Epoch 14/20,Step 0/89, took 0.96 s - train loss: 0.353422 - train accuracy: 0.96334
+Epoch 14/20,Step 49/89, took 0.93 s - train loss: 0.357066 - train accuracy: 0.95855
+Epoch 14/20 - valid loss: 0.3645941913127899 - valid acc:  0.9474676847457886 
+
+Epoch 15/20,Step 0/89, took 1.02 s - train loss: 0.363319 - train accuracy: 0.94912
+Epoch 15/20,Step 49/89, took 1.04 s - train loss: 0.354862 - train accuracy: 0.95934
+Epoch 15/20 - valid loss: 0.3602256178855896 - valid acc:  0.9542025923728943 
+
+Epoch 16/20,Step 0/89, took 1.02 s - train loss: 0.357208 - train accuracy: 0.95753
+Epoch 16/20,Step 49/89, took 0.95 s - train loss: 0.350173 - train accuracy: 0.96716
+Epoch 16/20 - valid loss: 0.35702139139175415 - valid acc:  0.9566271305084229 
+
+Epoch 17/20,Step 0/89, took 0.97 s - train loss: 0.352296 - train accuracy: 0.96294
+Epoch 17/20,Step 49/89, took 0.93 s - train loss: 0.348526 - train accuracy: 0.96811
+Epoch 17/20 - valid loss: 0.3566776514053345 - valid acc:  0.9552801847457886 
+
+Epoch 18/20,Step 0/89, took 0.87 s - train loss: 0.348300 - train accuracy: 0.96635
+Epoch 18/20,Step 49/89, took 0.98 s - train loss: 0.349755 - train accuracy: 0.96620
+Epoch 18/20 - valid loss: 0.35739415884017944 - valid acc:  0.9539331793785095 
+
+Epoch 19/20,Step 0/89, took 1.02 s - train loss: 0.347094 - train accuracy: 0.96655
+Epoch 19/20,Step 49/89, took 0.97 s - train loss: 0.347981 - train accuracy: 0.96763
+Epoch 19/20 - valid loss: 0.3549080789089203 - valid acc:  0.9574353694915771 
+
+Epoch 20/20,Step 0/89, took 0.95 s - train loss: 0.346527 - train accuracy: 0.97055
+Epoch 20/20,Step 49/89, took 0.91 s - train loss: 0.344284 - train accuracy: 0.97242
+Epoch 20/20 - valid loss: 0.35455548763275146 - valid acc:  0.9571659564971924 
+
+
+
+Epoch 1/20,Step 0/89, took 1.68 s - train loss: 0.692795 - train accuracy: 0.54688
+Epoch 1/20,Step 49/89, took 1.34 s - train loss: 0.558396 - train accuracy: 0.83801
+Epoch 1/20 - valid loss: 0.4086950123310089 - valid acc:  0.907597005367279 
+
+Epoch 2/20,Step 0/89, took 2.27 s - train loss: 0.429225 - train accuracy: 0.89784
+Epoch 2/20,Step 49/89, took 1.99 s - train loss: 0.407027 - train accuracy: 0.90418
+Epoch 2/20 - valid loss: 0.3951287865638733 - valid acc:  0.9081357717514038 
+
+Epoch 3/20,Step 0/89, took 1.82 s - train loss: 0.400208 - train accuracy: 0.90925
+Epoch 3/20,Step 49/89, took 1.78 s - train loss: 0.398473 - train accuracy: 0.90896
+Epoch 3/20 - valid loss: 0.38421082496643066 - valid acc:  0.9259159564971924 
+
+Epoch 4/20,Step 0/89, took 1.86 s - train loss: 0.387569 - train accuracy: 0.92248
+Epoch 4/20,Step 49/89, took 1.79 s - train loss: 0.385407 - train accuracy: 0.92379
+Epoch 4/20 - valid loss: 0.3803183436393738 - valid acc:  0.928340494632721 
+
+Epoch 5/20,Step 0/89, took 2.01 s - train loss: 0.383023 - train accuracy: 0.92708
+Epoch 5/20,Step 49/89, took 2.02 s - train loss: 0.378542 - train accuracy: 0.93033
+Epoch 5/20 - valid loss: 0.3790680766105652 - valid acc:  0.9307650923728943 
+
+Epoch 6/20,Step 0/89, took 1.98 s - train loss: 0.375499 - train accuracy: 0.93730
+Epoch 6/20,Step 49/89, took 1.84 s - train loss: 0.383283 - train accuracy: 0.92761
+Epoch 6/20 - valid loss: 0.3762216567993164 - valid acc:  0.9342672228813171 
+
+Epoch 7/20,Step 0/89, took 1.89 s - train loss: 0.380183 - train accuracy: 0.92788
+Epoch 7/20,Step 49/89, took 1.81 s - train loss: 0.374705 - train accuracy: 0.93622
+Epoch 7/20 - valid loss: 0.37247058749198914 - valid acc:  0.9380387663841248 
+
+Epoch 8/20,Step 0/89, took 1.88 s - train loss: 0.367435 - train accuracy: 0.94631
+Epoch 8/20,Step 49/89, took 1.76 s - train loss: 0.369497 - train accuracy: 0.94292
+Epoch 8/20 - valid loss: 0.3729167580604553 - valid acc:  0.9383081793785095 
+
+Epoch 9/20,Step 0/89, took 1.85 s - train loss: 0.370091 - train accuracy: 0.94151
+Epoch 9/20,Step 49/89, took 1.81 s - train loss: 0.368225 - train accuracy: 0.94292
+Epoch 9/20 - valid loss: 0.374560683965683 - valid acc:  0.935883641242981 
+
+Epoch 10/20,Step 0/89, took 2.03 s - train loss: 0.365451 - train accuracy: 0.94692
+Epoch 10/20,Step 49/89, took 1.86 s - train loss: 0.364876 - train accuracy: 0.94818
+Epoch 10/20 - valid loss: 0.3679858446121216 - valid acc:  0.9442349076271057 
+
+Epoch 11/20,Step 0/89, took 1.79 s - train loss: 0.365151 - train accuracy: 0.94631
+Epoch 11/20,Step 49/89, took 1.87 s - train loss: 0.362272 - train accuracy: 0.95137
+Epoch 11/20 - valid loss: 0.3670158386230469 - valid acc:  0.9450430870056152 
+
+Epoch 12/20,Step 0/89, took 1.82 s - train loss: 0.364073 - train accuracy: 0.94852
+Epoch 12/20,Step 49/89, took 1.81 s - train loss: 0.362413 - train accuracy: 0.95089
+Epoch 12/20 - valid loss: 0.36729681491851807 - valid acc:  0.946928858757019 
+
+Epoch 13/20,Step 0/89, took 2.07 s - train loss: 0.359629 - train accuracy: 0.95212
+Epoch 13/20,Step 49/89, took 1.90 s - train loss: 0.363264 - train accuracy: 0.95057
+Epoch 13/20 - valid loss: 0.3658272624015808 - valid acc:  0.9477370977401733 
+
+Epoch 14/20,Step 0/89, took 1.81 s - train loss: 0.359158 - train accuracy: 0.95252
+Epoch 14/20,Step 49/89, took 1.97 s - train loss: 0.357990 - train accuracy: 0.95536
+Epoch 14/20 - valid loss: 0.3664569556713104 - valid acc:  0.9477370977401733 
+
+Epoch 15/20,Step 0/89, took 1.79 s - train loss: 0.356315 - train accuracy: 0.95633
+Epoch 15/20,Step 49/89, took 1.78 s - train loss: 0.358055 - train accuracy: 0.95711
+Epoch 15/20 - valid loss: 0.36323967576026917 - valid acc:  0.9504310488700867 
+
+Epoch 16/20,Step 0/89, took 1.79 s - train loss: 0.354786 - train accuracy: 0.95753
+Epoch 16/20,Step 49/89, took 1.89 s - train loss: 0.352720 - train accuracy: 0.96142
+Epoch 16/20 - valid loss: 0.36460191011428833 - valid acc:  0.9490840435028076 
+
+Epoch 17/20,Step 0/89, took 1.85 s - train loss: 0.355439 - train accuracy: 0.95833
+Epoch 17/20,Step 49/89, took 1.74 s - train loss: 0.354426 - train accuracy: 0.95886
+Epoch 17/20 - valid loss: 0.36347392201423645 - valid acc:  0.9477370977401733 
+
+Epoch 18/20,Step 0/89, took 1.88 s - train loss: 0.351641 - train accuracy: 0.96154
+Epoch 18/20,Step 49/89, took 1.84 s - train loss: 0.350111 - train accuracy: 0.96445
+Epoch 18/20 - valid loss: 0.3610360622406006 - valid acc:  0.9523168206214905 
+
+Epoch 19/20,Step 0/89, took 1.84 s - train loss: 0.355163 - train accuracy: 0.95974
+Epoch 19/20,Step 49/89, took 1.98 s - train loss: 0.351119 - train accuracy: 0.96349
+Epoch 19/20 - valid loss: 0.36104145646095276 - valid acc:  0.951777994632721 
+
+Epoch 20/20,Step 0/89, took 1.80 s - train loss: 0.350971 - train accuracy: 0.96414
+Epoch 20/20,Step 49/89, took 1.78 s - train loss: 0.352409 - train accuracy: 0.96349
+Epoch 20/20 - valid loss: 0.36090177297592163 - valid acc:  0.9509698152542114 
+

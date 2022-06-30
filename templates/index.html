@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href={{ url_for('static',filename='css/style.css') }}></link>
+    <title>FilterShark</title>
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+
+</head>
+
+<body>
+    <div class="logo">
+        <img src="{{ url_for('static',filename='Filtershark.png') }}" alt="logo">
+    </div>
+    <div class="navigation">
+       
+    </div>
+    <div class="navcontainer">
+        <form action="{{ url_for('predictone')}}" method="post">
+            <button type="submit" class="btn">判断</button>
+            <input type="text" name="DL" placeholder="DL text" required="required" />
+        </form>
+        <form action="{{ url_for('predictone')}}" method="post">
+            <input type="text" name="nonDL" placeholder="non-DL text" required="required" />
+            <button type="submit" class="btn">判断</button>
+        </form>
+    </div>
+    <div>
+        <li>{{prediction_text}}</li>
+    </div>
+    <footer>
+        <div class="under">
+            <div class="footer1">
+                <img src="{{ url_for('static',filename='a.png') }}"> &nbsp;MingChen Cai,JianPo Lin,HuaTie Zhang<br>
+                <img src="{{ url_for('static',filename='b.png') }}"> &nbsp;South China University of Technology<br>
+                <img src="{{ url_for('static',filename='c.png') }}">&nbsp;CMC,LJP,ZHT<br>
+            </div>
+            <div class="footer2">
+                <img src="{{ url_for('static',filename='d.png') }}">&nbsp;Guangzhou China<br>
+                <img src="{{ url_for('static',filename='e.png') }}">&nbsp;School of Computer Science and Engineering
+            </div>
+        </div>
+    </footer>
+</body>
+<script type="text/javascript" src="event.js"></script>
+
+</html>
